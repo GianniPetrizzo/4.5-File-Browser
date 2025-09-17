@@ -1,0 +1,24 @@
+{
+  "message": "Hello, World!",
+  "project": "File Browser",
+  "author": "Student",
+  "files": [
+    {
+      "name": "index.html",
+      "type": "HTML",
+      "description": "Main landing page"
+    },
+    {
+      "name": "sample.html", 
+      "type": "HTML",
+      "description": "Sample HTML file"
+    },
+    {
+      "name": "data.json",
+      "type": "JSON",
+      "description": "Sample JSON data file"
+    }
+  ],
+  "created": "2024",
+  "status": "active"
+}

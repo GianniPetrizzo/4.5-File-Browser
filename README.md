@@ -1,1 +1,2 @@
-# 4.5-File-Browser
+Project: File Browser
+Purpose: Demonstrate different file type handling in browsers
